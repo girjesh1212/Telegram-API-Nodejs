@@ -1,0 +1,12 @@
+{
+  "name": "telegramapi",
+  "version": "1.0.0",
+  "description": "For a startup, marketing is a big challenge. People go on different social media platforms for marketing of product or service. One of the common way is to send messages on Telegram where people find groups of interested domain and start texting people in the group one by one. But that is a lot of hassle.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm server.js"
+  },
+  "author": "Girjesh Singh",
+  "license": "ISC"
+}
